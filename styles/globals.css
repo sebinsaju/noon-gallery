@@ -9728,6 +9728,7 @@ h3.title-big {
 
 .w3l-header-nav {
   /* padding: 20px 0;  */
+  box-shadow:0px 8px 27px #c8c8c8;
 }
   .w3l-header-nav .dropdown-toggle::after {
     display: none; }
