@@ -24,7 +24,7 @@ const HomeAbout = () => {
               children and adults. The services can be availed both Online as
               well as In-person instruction.
             </p>
-            <Link href="/rooms">
+            <Link href="/about">
               <a className="btn btn-style btn-primary mt-sm-5 mt-4">
                 Learn About Us
               </a>
