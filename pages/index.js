@@ -10,6 +10,7 @@ import HomeServices from '../components/home-services'
 import LogoSlider from '../components/logo-slider'
 import Quotation from '../components/quotation'
 import TestimonialSection from '../components/testimonial-section'
+import VisionAndMission from '../components/vision-and-mission'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <div className='main'>
         <BannerSlider />
         <HomeAbout />
+        <VisionAndMission />
         {/* <BestRooms /> */}
         {/* <Experience /> */}
         <Quotation />
