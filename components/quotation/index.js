@@ -11,7 +11,7 @@ const Quotation = () => {
             className="btn btn-style transparent-btn mt-sm-5 mt-4 mr-2 text-white"
             target="_blank"
             rel="noreferrer"
-            href={bookingLink}
+            href={`/contact`}
           >
             Register Now
           </a>
