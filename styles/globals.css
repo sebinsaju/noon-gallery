@@ -9589,7 +9589,7 @@ html {
 button,
 input,
 select {
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   outline: none;
   font-family: 'Spartan', sans-serif; }
 
@@ -9726,6 +9726,15 @@ h3.title-big {
     font-size: 22px;
     line-height: 30px; } }
 
+    /* custom css start */
+.register_title{
+  margin: 20px 0;
+  color: #222;
+}
+.register_select{
+padding:  0 10px;
+}
+/* custom css end */
 .w3l-header-nav {
   /* padding: 20px 0;  */
   box-shadow:0px 8px 27px #c8c8c8;
